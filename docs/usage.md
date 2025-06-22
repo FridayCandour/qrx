@@ -221,14 +221,6 @@ For information about how to use the options, see the docs.
 | [`marginRight`](https://ts-quick-reaction.netlify.app/api/barcode/#margins) | `undefined` | `Number` |
 | [`valid`](https://ts-quick-reaction.netlify.app/api/barcode/#valid) | `function(valid){}` | `Function` |
 
-## CLI
-
-```bash
-rpx --from localhost:3000 --to my-project.localhost
-rpx --from localhost:8080 --to my-project.test --keyPath ./key.pem --certPath ./cert.pem
-rpx --help
-rpx --version
-```
 
 ## Testing
 
